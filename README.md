@@ -1,1 +1,1 @@
-# My-MC-mods
+# OM package manager
